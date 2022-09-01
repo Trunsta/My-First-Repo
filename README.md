@@ -4,4 +4,4 @@ NPM	: 2106750212
 
 Kelas	: A
 
-Hobi	: Mamam
+Hobi	: Bobo
